@@ -1,0 +1,7 @@
+npm init -y        генеруємо package.json без базових настройок
+необхідні пакети для розробки
+npm i -D    nodemon cross-env
+nodemon     - запуск прокрами в режимі розробки для перезапуску сервера
+npm i telegraf config        -telegraf для спілкування з ботом і пакет config для роботи з системними перемінними
+npm i axios fluent-ffmpeg @ffmpeg-installer/ffmpeg
+npm i openai - підключеня ChatGPT до коду
